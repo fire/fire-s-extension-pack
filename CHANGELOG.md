@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 2021-01-09
 
+- Add jsonnet.
 - Add prettier.
 - First release!
 - Initial release

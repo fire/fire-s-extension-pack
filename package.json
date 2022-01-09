@@ -28,6 +28,7 @@
         "Razoric.gdscript-toolkit-formatter",
         "twxs.cmake",
         "vadimcn.vscode-lldb",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "heptio.jsonnet"
     ]
 }
