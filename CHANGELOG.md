@@ -4,10 +4,10 @@ All notable changes to the "fire-s-extension-pack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 2021-01-09
-
-* First release!
-
 ## [Unreleased]
 
+## 2021-01-09
+
+- Add prettier.
+- First release!
 - Initial release
