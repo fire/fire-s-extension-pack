@@ -30,6 +30,7 @@
         "vadimcn.vscode-lldb",
         "esbenp.prettier-vscode",
         "heptio.jsonnet",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "elixir-lsp.elixir-ls"
     ]
 }

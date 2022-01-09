@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 2021-01-09
 
+- Add elixir lsp.
 - Add gitlens.
 - Add jsonnet.
 - Add prettier.
