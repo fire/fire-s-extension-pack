@@ -3,6 +3,8 @@
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
     "version": "0.0.1",
+    "publisher": "fire",
+    "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
         "vscode": "^1.63.0"
     },
