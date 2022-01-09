@@ -29,6 +29,7 @@
         "twxs.cmake",
         "vadimcn.vscode-lldb",
         "esbenp.prettier-vscode",
-        "heptio.jsonnet"
+        "heptio.jsonnet",
+        "eamodio.gitlens"
     ]
 }
