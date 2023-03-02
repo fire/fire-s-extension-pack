@@ -30,6 +30,7 @@
         "vadimcn.vscode-lldb",
         "esbenp.prettier-vscode",
         "heptio.jsonnet",
-        "elixir-lsp.elixir-ls"
+        "elixir-lsp.elixir-ls",
+        "gencay.vscode-chatgpt",
     ]
 }
