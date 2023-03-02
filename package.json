@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -31,6 +31,6 @@
         "esbenp.prettier-vscode",
         "heptio.jsonnet",
         "elixir-lsp.elixir-ls",
-        "gencay.vscode-chatgpt",
+        "gencay.vscode-chatgpt"
     ]
 }
