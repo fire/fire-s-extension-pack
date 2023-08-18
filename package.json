@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -12,6 +12,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "genieai.chatgpt-vscode",
         "amoosbr.markdown-nomnoml",
         "cschlosser.doxdocgen",
         "jbockle.jbockle-format-files",
