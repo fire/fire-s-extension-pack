@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -28,7 +28,6 @@
         "twxs.cmake",
         "vadimcn.vscode-lldb",
         "esbenp.prettier-vscode",
-        "heptio.jsonnet",
         "elixir-lsp.elixir-ls"
     ]
 }
