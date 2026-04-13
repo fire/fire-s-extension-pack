@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.7.3
+
+- Add franneck94.workspace-formatter extension.
+
 ## 0.7.2
 
 - Add google.colab extension.
