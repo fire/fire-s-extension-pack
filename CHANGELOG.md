@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.7.2
+
+- Add google.colab extension.
+
 ## 2021-01-09
 
 - Add elixir lsp.
