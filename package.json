@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -28,7 +28,6 @@
         "esbenp.prettier-vscode",
         "JakeBecker.elixir-ls",
         "yy0931.vscode-sqlite3-editor",
-        "google.colab",
         "franneck94.workspace-formatter",
         "formulahendry.acp-client",
         "maxie-homrich.copilot-for-vscode-oss"
