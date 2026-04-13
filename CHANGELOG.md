@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.7.5
+
+- Add maxie-homrich.copilot-for-vscode-oss extension.
+
 ## 0.7.4
 
 - Add formulahendry.acp-client extension.
