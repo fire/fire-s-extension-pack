@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.7.9
+
+- Add adamviola.parquet-explorer extension.
+
 ## 0.7.5
 
 - Add maxie-homrich.copilot-for-vscode-oss extension.
