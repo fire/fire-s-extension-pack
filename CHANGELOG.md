@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.8.0
+
+- Add jeanp413.open-remote-ssh extension.
+
 ## 0.7.9
 
 - Add adamviola.parquet-explorer extension.

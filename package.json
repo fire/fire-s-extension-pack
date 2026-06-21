@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.7.9",
+    "version": "0.8.0",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -17,6 +17,7 @@
         "jbockle.jbockle-format-files",
         "jeff-hykin.better-cpp-syntax",
         "jjkim.gdscript",
+        "jeanp413.open-remote-ssh",
         "ms-vscode-remote.remote-containers",
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-wsl",
