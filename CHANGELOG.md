@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.9.0
+
+- Add jeanp413.open-remote-wsl extension.
+- Add mermaid-lint.mermaid-lint-vscode extension.
+- Add ThorVG.thorvg-liveview extension for .lot support.
+
 ## 0.8.0
 
 - Add jeanp413.open-remote-ssh extension.

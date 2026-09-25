@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.8.1",
+    "version": "0.9.0",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -32,6 +32,9 @@
         "adamviola.parquet-explorer",
         "franneck94.workspace-formatter",
         "formulahendry.acp-client",
-        "maxie-homrich.copilot-for-vscode-oss"
+        "maxie-homrich.copilot-for-vscode-oss",
+        "jeanp413.open-remote-wsl",
+        "mermaid-lint.mermaid-lint-vscode",
+        "ThorVG.thorvg-liveview"
     ]
 }
