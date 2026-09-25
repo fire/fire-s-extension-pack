@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.9.1
+
+- Remove maxie-homrich.copilot-for-vscode-oss extension.
+
 ## 0.9.0
 
 - Add jeanp413.open-remote-wsl extension.
